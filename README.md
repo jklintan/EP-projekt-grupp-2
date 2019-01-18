@@ -1,2 +1,2 @@
-# EP-projekt-grupp-2
-Projekt Elektronisk Publicering TNMK033, grupp 2
+# TNMK033
+Project in Electronic Publishing
